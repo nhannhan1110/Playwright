@@ -1,0 +1,5 @@
+{
+    "username": "username",
+    "password": "password",
+    "error_message_over_100_digits": "Vui lòng nhập không quá 100 kí tự"
+}
